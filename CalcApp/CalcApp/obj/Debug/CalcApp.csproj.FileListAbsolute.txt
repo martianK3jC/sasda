@@ -1,0 +1,13 @@
+C:\Users\roger\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.exe.config
+C:\Users\roger\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.exe
+C:\Users\roger\source\repos\CalcApp\CalcApp\bin\Debug\CalcApp.pdb
+C:\Users\roger\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.AssemblyReference.cache
+C:\Users\roger\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.Properties.Resources.resources
+C:\Users\roger\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.GenerateResource.cache
+C:\Users\roger\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.exe
+C:\Users\roger\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.pdb
+C:\Users\roger\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.exe.config
+C:\Users\roger\source\repos\CalcApp\CalcApp\bin\Debug\norwester.otf
+C:\Users\roger\source\repos\CalcApp\CalcApp\bin\Debug\heart_explosion.gif
+C:\Users\roger\source\repos\CalcApp\CalcApp\obj\Debug\CalcApp.HeartParticle.resources
